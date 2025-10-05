@@ -1,5 +1,0 @@
-rcb=win
-if(rcb==win):
-  print("winner")
-else:
-  print("loser")
